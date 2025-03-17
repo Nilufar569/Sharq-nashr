@@ -408,6 +408,7 @@ body {
 }
 
 /* Media Responsive */
+/* Footer responsive */
 @media only screen and (max-width: 1140px) {
   .site-footer-links {
     width: 20.36%;
@@ -485,3 +486,4 @@ body {
     margin-bottom: 0%;
   }
 }
+/* Footer responsive done */
